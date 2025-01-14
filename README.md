@@ -1,1 +1,1 @@
-# wine-quality-app
+# Wine-Quality-app
